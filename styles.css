@@ -73,3 +73,7 @@ html {
         width: 633px;
     }
 }
+
+.key:hover{
+    background-color: rgb(189, 63, 173);
+}
