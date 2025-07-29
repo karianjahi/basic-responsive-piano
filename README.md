@@ -7,14 +7,14 @@ A beginner-friendly HTML and CSS project that demonstrates **basic responsive de
 ---
 
 ## 📁 Project Structure
-    ```
-        ├── images/
-        │ └── preview.png # Screenshot of the rendered piano
-        ├── index.html # Main HTML structure of the piano
-        ├── styles.css # Responsive styles using pure CSS
-        ├── README.md # Project documentation
-        └── LICENSE # MIT License
-    ```
+```
+    ├── images/
+    │ └── preview.png # Screenshot of the rendered piano
+    ├── index.html # Main HTML structure of the piano
+    ├── styles.css # Responsive styles using pure CSS
+    ├── README.md # Project documentation
+    └── LICENSE # MIT License
+```
 
 
 
